@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Eco-Forniture](https://github.com/Abdelrahman-Ghazaly/gp)
 
-- 🌱 I’m currently learning **Flutter & Node js**
+- 🌱 I’m currently learning **Flutter & Android developer (Java)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/osama-abdelrassoul?tab=repositories](https://github.com/osama-abdelrassoul?tab=repositories)
 
